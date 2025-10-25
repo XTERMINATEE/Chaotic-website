@@ -1,0 +1,9 @@
+iframe {
+        height: 1px;
+        width: 1px;
+        display: none;
+}
+
+html {
+        cursor: none
+}
